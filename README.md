@@ -11,7 +11,11 @@ https://gwlenglish.github.io/Character-Action/
 
 
 Actions are loaded on the CharacterControllerSO. 
+
 Flow Controls defines which actions are possible (e.g. Combo 1 -> Combo 2). 
+
 Example Character can be found in /UnityModels
+
 Example Actions can be found in CC/Actions
+
 Example Flow Controls can be foudn in CC/ActionFlows
