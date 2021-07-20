@@ -1,0 +1,6 @@
+<map id="StandardMovementRB" name="StandardMovementRB">
+<area shape="rect" id="node1" title=" " alt="" coords="348,78,499,105"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_movement_1_1_r_b_1_1com_1_1_input_rotate_vars_r_b.html" title=" " alt="" coords="10,5,231,47"/>
+<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_movement_1_1_r_b_1_1com_1_1_falling_variables_r_b.html" title=" " alt="" coords="5,71,236,112"/>
+<area shape="rect" id="node4" href="$class_g_w_l_p_x_l_1_1_movement_1_1_r_b_1_1com_1_1_input_move_vars_r_b.html" title=" " alt="" coords="10,136,231,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="GWLPXL.Movement.Character.CC.com.CharacterLocomotionCC" name="GWLPXL.Movement.Character.CC.com.CharacterLocomotionCC">
+<area shape="rect" id="node1" title="base class for the character locomotion CC" alt="" coords="528,37,743,79"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1_c_c_1_1com_1_1_input_move_vars_c_c.html" title="base class for the input vars for a CC" alt="" coords="199,5,402,47"/>
+<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1com_1_1_character_locomotion_animator.html" title="base class for locomotion strings for the animator" alt="" coords="185,71,416,112"/>
+<area shape="rect" id="node4" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1com_1_1_character_animator.html" title="base class for Animator State Name" alt="" coords="5,78,136,105"/>
+</map>

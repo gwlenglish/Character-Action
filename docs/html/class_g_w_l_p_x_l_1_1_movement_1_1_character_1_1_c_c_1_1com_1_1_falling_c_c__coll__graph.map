@@ -1,0 +1,5 @@
+<map id="GWLPXL.Movement.Character.CC.com.FallingCC" name="GWLPXL.Movement.Character.CC.com.FallingCC">
+<area shape="rect" id="node1" title="falling class for the character controller." alt="" coords="5,109,208,151"/>
+<area shape="rect" id="node2" href="$interface_i_tick.html" title="interface for update ticks" alt="" coords="41,5,90,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="115,5,181,32"/>
+</map>

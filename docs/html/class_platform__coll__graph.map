@@ -1,0 +1,5 @@
+<map id="Platform" name="Platform">
+<area shape="rect" id="node1" title="needs to happen in order of movement, make a new movement type for platforms." alt="" coords="120,109,191,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,13,116,39"/>
+<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_movement_1_1_r_b_1_1com_1_1_move_lerp_vars_r_b.html" title=" " alt="" coords="140,5,363,47"/>
+</map>

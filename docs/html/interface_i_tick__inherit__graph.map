@@ -1,0 +1,25 @@
+<map id="ITick" name="ITick">
+<area shape="rect" id="node1" title="interface for update ticks" alt="" coords="5,672,55,699"/>
+<area shape="rect" id="node2" href="$class_controller___r_b.html" title=" " alt="" coords="176,5,279,32"/>
+<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1_c_c_1_1com_1_1_action_c_c.html" title="The main action state for the character controller. Controls the state&#39;s current info and checks next..." alt="" coords="126,57,329,98"/>
+<area shape="rect" id="node4" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1_c_c_1_1com_1_1_falling_c_c.html" title="falling class for the character controller." alt="" coords="126,122,329,163"/>
+<area shape="rect" id="node5" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1_c_c_1_1com_1_1_gather_animator_inputs_c_c.html" title="ticker class to gather animator inputs for the CC" alt="" coords="119,187,336,229"/>
+<area shape="rect" id="node6" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1_c_c_1_1com_1_1_input_move_c_c.html" title="ticker class to gather inputs for the CC" alt="" coords="126,253,329,294"/>
+<area shape="rect" id="node7" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1com_1_1_follow.html" title=" " alt="" coords="112,318,343,359"/>
+<area shape="rect" id="node8" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1com_1_1_gather_player_state_inputs.html" title="ticker class that gathers the player inputs" alt="" coords="112,383,343,425"/>
+<area shape="rect" id="node9" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1com_1_1_gather_sequence_inputs.html" title="ticker class that gathers the action inputs" alt="" coords="112,449,343,490"/>
+<area shape="rect" id="node10" href="$class_g_w_l_p_x_l_1_1_movement_1_1_r_b_1_1com_1_1_falling_r_b.html" title=" " alt="" coords="103,515,352,541"/>
+<area shape="rect" id="node11" href="$class_g_w_l_p_x_l_1_1_movement_1_1_r_b_1_1com_1_1_input_move_r_b.html" title=" " alt="" coords="117,566,338,607"/>
+<area shape="rect" id="node12" href="$class_g_w_l_p_x_l_1_1_movement_1_1_r_b_1_1com_1_1_input_rotate_r_b.html" title=" " alt="" coords="117,631,338,673"/>
+<area shape="rect" id="node13" href="$class_g_w_l_p_x_l_1_1_movement_1_1_r_b_1_1com_1_1_move_lerp_r_b.html" title=" " alt="" coords="116,697,339,738"/>
+<area shape="rect" id="node14" href="$class_g_w_l_p_x_l_1_1_movement_1_1com_1_1_falling.html" title=" " alt="" coords="123,763,332,789"/>
+<area shape="rect" id="node15" href="$class_g_w_l_p_x_l_1_1_movement_1_1com_1_1_input_move.html" title=" " alt="" coords="113,813,342,840"/>
+<area shape="rect" id="node16" href="$class_g_w_l_p_x_l_1_1_movement_1_1com_1_1_input_rotate.html" title=" " alt="" coords="128,865,327,906"/>
+<area shape="rect" id="node17" href="$class_g_w_l_p_x_l_1_1_movement_1_1com_1_1_leap.html" title=" " alt="" coords="128,931,327,957"/>
+<area shape="rect" id="node18" href="$class_g_w_l_p_x_l_1_1_movement_1_1com_1_1_move_lerp.html" title=" " alt="" coords="114,981,341,1008"/>
+<area shape="rect" id="node19" href="$class_g_w_l_p_x_l_1_1_movement_1_1com_1_1_rotate.html" title=" " alt="" coords="123,1032,332,1059"/>
+<area shape="rect" id="node20" href="$class_g_w_l_p_x_l_1_1_movement_1_1com_1_1_rotate_r_b.html" title=" " alt="" coords="114,1083,341,1109"/>
+<area shape="rect" id="node21" href="$class_g_w_l_p_x_l_1_1_movement_1_1com_1_1_set_rotation.html" title=" " alt="" coords="108,1133,347,1160"/>
+<area shape="rect" id="node22" href="$class_g_w_l_p_x_l_1_1_movement_1_1com_1_1_simple_move.html" title=" " alt="" coords="107,1184,348,1211"/>
+<area shape="rect" id="node23" href="$class_g_w_l_p_x_l_1_1_movement_1_1com_1_1_stick_to_ground.html" title=" " alt="" coords="127,1235,328,1277"/>
+</map>

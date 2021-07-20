@@ -1,0 +1,5 @@
+<map id="com.GWLPXL.Helpers.JsonSaving.IResourceContainer" name="com.GWLPXL.Helpers.JsonSaving.IResourceContainer">
+<area shape="rect" id="node1" title="interface for saving data as json" alt="" coords="73,5,298,47"/>
+<area shape="rect" id="node2" href="$class_action_flow_data_container.html" title="scriptable object container for the flow data" alt="" coords="5,95,173,121"/>
+<area shape="rect" id="node3" href="$class_actions_data_container_s_o.html" title="much like the flow one" alt="" coords="198,95,365,121"/>
+</map>

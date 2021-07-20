@@ -1,0 +1,13 @@
+<map id="GWLPXL.Movement.Character.CC.com.StandardMovementCC" name="GWLPXL.Movement.Character.CC.com.StandardMovementCC">
+<area shape="rect" id="node1" title="base class for the standard movement on the character cc" alt="" coords="863,157,1065,199"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1_c_c_1_1com_1_1_character_locomotion_c_c.html" title="base class for the character locomotion CC" alt="" coords="528,71,743,112"/>
+<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1_c_c_1_1com_1_1_input_move_vars_c_c.html" title="base class for the input vars for a CC" alt="" coords="199,5,402,47"/>
+<area shape="rect" id="node4" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1com_1_1_character_locomotion_animator.html" title="base class for locomotion strings for the animator" alt="" coords="185,71,416,112"/>
+<area shape="rect" id="node5" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1com_1_1_character_animator.html" title="base class for Animator State Name" alt="" coords="5,143,136,170"/>
+<area shape="rect" id="node7" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1com_1_1_character_falling_animator.html" title="base class for falling animator strings" alt="" coords="185,136,416,177"/>
+<area shape="rect" id="node11" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1com_1_1_character_rotate_animator_rotate.html" title="base class for rotate direction strings for the animator" alt="" coords="185,332,416,373"/>
+<area shape="rect" id="node6" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1_c_c_1_1com_1_1_character_falling_c_c.html" title="base class for the character falling CC" alt="" coords="534,157,737,199"/>
+<area shape="rect" id="node8" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1_c_c_1_1com_1_1_falling_variables_c_c.html" title="base class for the falling variables on the character CC" alt="" coords="199,201,402,243"/>
+<area shape="rect" id="node9" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1_c_c_1_1com_1_1_character_rotate.html" title="animator rotate and input vars for the character CC" alt="" coords="534,267,737,308"/>
+<area shape="rect" id="node10" href="$class_g_w_l_p_x_l_1_1_movement_1_1com_1_1_input_rotate_vars.html" title="Input variables for a character" alt="" coords="201,267,400,308"/>
+</map>

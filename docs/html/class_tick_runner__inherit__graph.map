@@ -1,0 +1,4 @@
+<map id="TickRunner" name="TickRunner">
+<area shape="rect" id="node1" title="tick manager mono, used to wrap all update or fixed update methods into one object call...." alt="" coords="17,80,104,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,116,32"/>
+</map>

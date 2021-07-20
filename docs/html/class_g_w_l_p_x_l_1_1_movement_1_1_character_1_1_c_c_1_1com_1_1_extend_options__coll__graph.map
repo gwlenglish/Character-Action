@@ -1,0 +1,6 @@
+<map id="GWLPXL.Movement.Character.CC.com.ExtendOptions" name="GWLPXL.Movement.Character.CC.com.ExtendOptions">
+<area shape="rect" id="node1" title="extend options for actions" alt="" coords="784,39,987,80"/>
+<area shape="rect" id="node2" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1com_1_1_input_requirements.html" title="input requirements for actions, buttons and axis" alt="" coords="395,39,625,80"/>
+<area shape="rect" id="node3" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1com_1_1_input_axis_free_form.html" title="axis requirement for action" alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node4" href="$class_g_w_l_p_x_l_1_1_movement_1_1_character_1_1com_1_1_input_button.html" title="input button required for action" alt="" coords="5,71,236,112"/>
+</map>

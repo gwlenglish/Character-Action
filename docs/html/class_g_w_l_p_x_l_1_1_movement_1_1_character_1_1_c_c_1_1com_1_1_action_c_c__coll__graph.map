@@ -1,0 +1,5 @@
+<map id="GWLPXL.Movement.Character.CC.com.ActionCC" name="GWLPXL.Movement.Character.CC.com.ActionCC">
+<area shape="rect" id="node1" title="The main action state for the character controller. Controls the state&#39;s current info and checks next..." alt="" coords="5,95,208,136"/>
+<area shape="rect" id="node2" href="$interface_i_tick.html" title="interface for update ticks" alt="" coords="41,5,90,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="115,5,181,32"/>
+</map>

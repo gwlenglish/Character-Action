@@ -1,0 +1,6 @@
+<map id="ActionFlowDataContainer" name="ActionFlowDataContainer">
+<area shape="rect" id="node1" title="scriptable object container for the flow data" alt="" coords="42,171,210,197"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node4" href="$class_actions_data_container_s_o.html" title="much like the flow one" alt="" coords="43,81,209,108"/>
+<area shape="rect" id="node3" href="$interfacecom_1_1_g_w_l_p_x_l_1_1_helpers_1_1_json_saving_1_1_i_resource_container.html" title="interface for saving data as json" alt="" coords="164,5,299,32"/>
+</map>
