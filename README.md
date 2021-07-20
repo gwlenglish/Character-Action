@@ -20,7 +20,7 @@ Project Settings may need to be adjusted as I created new inputs for Xbox joysti
 Project documentation can be found on the pages, uses the docs folder to read html. 
 https://gwlenglish.github.io/Character-Action/
 
-Demo in action can be played here:
+WebGL Demo can be played here:
 https://ventedpennies.itch.io/action-test
 
 
