@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ad40edb3f034f24a96650afd1f82fd4, type: 3}
+  m_Name: Player Flow
+  m_EditorClassIdentifier: 
+  Current: 
+  FlowData: {fileID: 11400000, guid: 8efbe5dc88363804d8af03304d297e4e, type: 2}
+  ActionData: {fileID: 11400000, guid: 8f95ad43e43583b4c9ae1f6340f82267, type: 2}
+  loaded: 2
+  FlowName: Combos
+  flowCount: 1
+  previousFlowCount: 1
+  Flows:
+  - ComboPhase:
+    - Foldout: 0
+      index: 4
+      Start:
+        MoveAbility: Combo_A_01
+      NextType: 2
+      Next:
+      - MoveAbility: Combo_A_02
+      Vars:
+        Nexts: 05000000
+        Nextcount: 1
+        Previousnextcount: 1
+        Cancels: 
+        Cancelcount: 0
+        PreviousCancelcount: 0
+    - Foldout: 0
+      index: 5
+      Start:
+        MoveAbility: Combo_A_02
+      NextType: 2
+      Next:
+      - MoveAbility: Combo_A_03
+      Vars:
+        Nexts: 06000000
+        Nextcount: 1
+        Previousnextcount: 1
+        Cancels: 
+        Cancelcount: 0
+        PreviousCancelcount: 0
+    - Foldout: 0
+      index: 6
+      Start:
+        MoveAbility: Combo_A_03
+      NextType: 2
+      Next:
+      - MoveAbility: Combo_A_04
+      Vars:
+        Nexts: 07000000
+        Nextcount: 1
+        Previousnextcount: 1
+        Cancels: 
+        Cancelcount: 0
+        PreviousCancelcount: 0
+    - Foldout: 0
+      index: 7
+      Start:
+        MoveAbility: Combo_A_04
+      NextType: 1
+      Next: []
+      Vars:
+        Nexts: 
+        Nextcount: 0
+        Previousnextcount: 0
+        Cancels: 
+        Cancelcount: 0
+        PreviousCancelcount: 0
+    - Foldout: 0
+      index: 10
+      Start:
+        MoveAbility: Jump
+      NextType: 2
+      Next:
+      - MoveAbility: AirAttack_01
+      - MoveAbility: Dash
+      Vars:
+        Nexts: 0000000008000000
+        Nextcount: 2
+        Previousnextcount: 2
+        Cancels: 
+        Cancelcount: 0
+        PreviousCancelcount: 0
+    combophasecount: 5
+    previousphasecount: 5
+  prev: 0

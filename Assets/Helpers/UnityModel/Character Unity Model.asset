@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd4a72b8aec89164c8a6cb5ba2a18702, type: 3}
+  m_Name: Character Unity Model
+  m_EditorClassIdentifier: 
+  PlayerCC:
+    Controls:
+      PlayerInputs:
+        Type: 0
+        AxisX: Horizontal
+        AxisZ: Vertical
+      Controller:
+        Rotate:
+          Animator:
+            AnimatorStateName: 
+            DirX: RotX
+            DirZ: RotZ
+          Rotation:
+            Multiplier: 1
+            X: 0
+            Z: 0
+            Speed: 35
+            Smooth: 1
+            Reference: 1
+            FaceDirection: {x: 0, y: 0.8102694, z: 0, w: -0.5860576}
+        Locomotion:
+          Animator:
+            AnimatorStateName: Locomotion
+            DirX: MoveX
+            DirZ: MoveZ
+            Speed: Speed
+            AirborneState: Airborne
+          Movement:
+            Multiplier: 1
+            AirborneMulti: 1
+            X: 0
+            Z: 0
+            Speed: 5
+            Type: 1
+            Reference: 1
+            MoveDirection: {x: 0, y: 0, z: 0}
+            LocalInput: {x: 0, y: 0, z: 0}
+            GlobalInput: {x: 0, y: 0, z: 0}
+        Fall:
+          Animator:
+            AnimatorStateName: IsGrounded
+          Falling:
+            Multiplier: 1
+            GroundLayer:
+              serializedVersion: 2
+              m_Bits: 256
+            FallingSpeed: 20
+            CoyoteDuration: 0
+            FallingCurve:
+              serializedVersion: 2
+              m_Curve:
+              - serializedVersion: 3
+                time: 0
+                value: 0
+                inSlope: 2
+                outSlope: 2
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              - serializedVersion: 3
+                time: 1
+                value: 1
+                inSlope: 0
+                outSlope: 0
+                tangentMode: 0
+                weightedMode: 0
+                inWeight: 0
+                outWeight: 0
+              m_PreInfinity: 2
+              m_PostInfinity: 2
+              m_RotationOrder: 4
+            TimeToMaxFallSpeed: 1
+            GravityDirection: {x: 0, y: -1, z: 0}
+            Type: 1
+            IsGrounded: 1
+            CurrentFallingSpeed: 20
+      Actions:
+      - {fileID: 11400000, guid: 2e168315f5283054389e5572fa0220e7, type: 2}
+      - {fileID: 11400000, guid: e2b4022526554394297d830b77776bdb, type: 2}
+      - {fileID: 11400000, guid: 4c1585995e400e04a87beb112f5d784b, type: 2}
+      - {fileID: 11400000, guid: 4e08f72b5c9185a459a72656d778954e, type: 2}
+      - {fileID: 11400000, guid: 5318bbec556866945933126b47acff3b, type: 2}
+      - {fileID: 11400000, guid: ae9fc07ae2e74ce4f84fd6997a4a492b, type: 2}
+      - {fileID: 11400000, guid: 2f9184aa86e0d6843b3426da249184c2, type: 2}
+      - {fileID: 11400000, guid: ed613e5736adfb84ea914f0477195bc9, type: 2}
+      - {fileID: 11400000, guid: 3dca379023985084d8c71011735fac96, type: 2}
+      FlowControls: {fileID: 11400000, guid: c6f0fc4848b175d498651cca556b0daf, type: 2}
